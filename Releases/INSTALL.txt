@@ -2,6 +2,10 @@ CreateFile v1.0.0 Installation
 
 This is an unsigned / unnotarized development release. macOS may show a security warning the first time you open it.
 
+System requirements:
+
+- macOS 26.4 or later
+
 Install steps:
 
 1. Unzip CreateFile-v1.0.0.zip.
@@ -34,6 +38,10 @@ Notes:
 CreateFile v1.0.0 安装说明
 
 这是一个未签名 / 未公证的开发分发版本。第一次打开时，macOS 可能会显示安全提示。
+
+系统要求：
+
+- macOS 26.4 或更高版本
 
 安装步骤：
 
