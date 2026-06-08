@@ -56,7 +56,7 @@ Releases/CreateFile-v1.0.0.zip
 
 This build is not notarized. After unzipping, move `CreateFile.app` to `/Applications`, right-click it and choose `Open`, then enable the Finder extension in System Settings. See `Releases/INSTALL.txt` for detailed steps.
 
-System requirement: macOS 26.4 or later.
+System requirement: macOS 15.0 or later.
 
 ## Templates
 

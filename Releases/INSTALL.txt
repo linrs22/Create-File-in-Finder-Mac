@@ -4,7 +4,7 @@ This is an unsigned / unnotarized development release. macOS may show a security
 
 System requirements:
 
-- macOS 26.4 or later
+- macOS 15.0 or later
 
 Install steps:
 
@@ -41,7 +41,7 @@ CreateFile v1.0.0 安装说明
 
 系统要求：
 
-- macOS 26.4 或更高版本
+- macOS 15.0 或更高版本
 
 安装步骤：
 
