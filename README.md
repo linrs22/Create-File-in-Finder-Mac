@@ -64,4 +64,4 @@ This project is currently intended for local development and personal use. If yo
 
 ## License
 
-No license has been specified yet.
+This project is licensed under the MIT License.
