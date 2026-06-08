@@ -46,6 +46,16 @@ Restart Finder to reload the extension during development:
 killall Finder
 ```
 
+## Download
+
+An early unsigned release package is available in the repository:
+
+```text
+Releases/CreateFile-v1.0.0.zip
+```
+
+This build is not notarized. After unzipping, move `CreateFile.app` to `/Applications`, right-click it and choose `Open`, then enable the Finder extension in System Settings. See `Releases/INSTALL.txt` for detailed steps.
+
 ## Templates
 
 Office files are created by copying blank templates bundled with the Finder extension:

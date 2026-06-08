@@ -1,0 +1,64 @@
+CreateFile v1.0.0 Installation
+
+This is an unsigned / unnotarized development release. macOS may show a security warning the first time you open it.
+
+Install steps:
+
+1. Unzip CreateFile-v1.0.0.zip.
+2. Move CreateFile.app to /Applications.
+3. Right-click CreateFile.app and choose Open.
+4. If macOS blocks it, open System Settings > Privacy & Security and allow it to run.
+5. Open CreateFile.app once so macOS can register the Finder extension.
+6. Open System Settings > Login Items & Extensions > Extensions > Finder Extensions.
+7. Enable CreateFile.
+8. Restart Finder or log out and back in.
+
+During development or testing, you can restart Finder with:
+
+killall Finder
+
+Supported locations:
+
+- Home
+- Desktop
+- Downloads
+- Documents
+
+Notes:
+
+- This build is intended for local testing and early GitHub distribution.
+- It is not notarized because notarization requires an Apple Developer Program account.
+- If the Finder menu does not appear, open CreateFile.app and check the Finder extension status shown in the app.
+
+
+CreateFile v1.0.0 安装说明
+
+这是一个未签名 / 未公证的开发分发版本。第一次打开时，macOS 可能会显示安全提示。
+
+安装步骤：
+
+1. 解压 CreateFile-v1.0.0.zip。
+2. 把 CreateFile.app 移动到 /Applications。
+3. 右键点击 CreateFile.app，选择“打开”。
+4. 如果 macOS 阻止打开，请到“系统设置 > 隐私与安全性”中允许运行。
+5. 打开一次 CreateFile.app，让 macOS 注册 Finder 扩展。
+6. 打开“系统设置 > 登录项与扩展 > 扩展 > Finder 扩展”。
+7. 启用 CreateFile。
+8. 重启 Finder，或者退出登录后重新登录。
+
+开发或测试时，也可以用下面的命令重启 Finder：
+
+killall Finder
+
+当前支持的目录：
+
+- 用户 Home
+- 桌面
+- 下载
+- 文稿
+
+说明：
+
+- 这个版本适合本地测试和早期 GitHub 分发。
+- 因为公证需要 Apple Developer Program 账号，所以这个版本未进行 notarization。
+- 如果 Finder 右键菜单没有出现，请打开 CreateFile.app，查看 App 内显示的 Finder 扩展状态。
